@@ -5,13 +5,9 @@ date: 2026-11-22
 categories: [tutorial]
 ---
 
-Writing a new post is easy. You have two ways to do it.
+Writing a new post is easy. You have one ways to do it.
 
-## Way 1: Ask me
-
-Just tell me the title and what you want to say, and I will write the post, add it to your blog, and publish it for you. This is the easiest way.
-
-## Way 2: Do it yourself on GitHub
+## Way 1: Do it yourself on GitHub
 
 1. Go to your repository at `github.com/d2ndproj/d2ndproj.github.io`.
 2. Open the `_posts` folder.
