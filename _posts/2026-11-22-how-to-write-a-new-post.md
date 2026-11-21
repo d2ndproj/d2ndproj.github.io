@@ -5,7 +5,7 @@ date: 2026-11-22
 categories: [tutorial]
 ---
 
-Writing a new post is easy. You have one ways to do it.
+Writing a new post is easy. You have one way to do it.
 
 ## Way 1: Do it yourself on GitHub
 
