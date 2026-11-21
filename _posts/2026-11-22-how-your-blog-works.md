@@ -2,6 +2,7 @@
 layout: post
 title: "How Your Blog Works"
 date: 2026-11-22
+categories: [tutorial]
 ---
 
 Your blog has three parts working together. Once you see how they fit, everything else makes sense.

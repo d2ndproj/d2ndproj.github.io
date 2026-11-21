@@ -2,6 +2,7 @@
 layout: post
 title: "Start Before You Feel Ready"
 date: 2026-11-22
+categories: [writing]
 ---
 
 Here is a small truth I keep relearning: you will never feel ready. Not for the blog, not for the project, not for the thing you have been thinking about for months.

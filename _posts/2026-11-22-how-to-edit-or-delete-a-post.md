@@ -2,6 +2,7 @@
 layout: post
 title: "How to Edit or Delete a Post"
 date: 2026-11-22
+categories: [tutorial]
 ---
 
 Made a mistake? Want to change something? No problem. Posts are just files, so editing one is like editing a document.

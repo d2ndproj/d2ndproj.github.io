@@ -2,6 +2,7 @@
 layout: post
 title: "SEO Basics for Your Blog"
 date: 2026-11-22
+categories: [tutorial]
 ---
 
 SEO means Search Engine Optimisation. It is how you help Google find your blog and show it to people. You do not need to be an expert. A few simple habits cover most of it.

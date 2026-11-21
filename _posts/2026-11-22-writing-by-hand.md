@@ -2,6 +2,7 @@
 layout: post
 title: "Writing by Hand"
 date: 2026-11-22
+categories: [writing]
 ---
 
 There is something different about writing by hand. It is slower, which sounds like a disadvantage until you try it. The slowness forces you to choose your words. You cannot delete a sentence with a keystroke, so you think before you commit.

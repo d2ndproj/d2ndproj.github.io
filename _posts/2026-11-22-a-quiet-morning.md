@@ -2,6 +2,7 @@
 layout: post
 title: "A Quiet Morning"
 date: 2026-11-22
+categories: [writing]
 ---
 
 This morning was quiet in the best way. No rush, no noise, just the sound of rain on the window and a warm cup of something in my hands.

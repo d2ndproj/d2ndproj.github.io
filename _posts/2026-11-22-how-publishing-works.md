@@ -2,6 +2,7 @@
 layout: post
 title: "How Publishing Works"
 date: 2026-11-22
+categories: [tutorial]
 ---
 
 When you save a file to your repository, your blog does not update instantly. It goes through a small process first. Here is what happens.

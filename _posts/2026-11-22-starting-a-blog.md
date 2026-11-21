@@ -2,6 +2,7 @@
 layout: post
 title: "Starting a Blog"
 date: 2026-11-22
+categories: [writing]
 ---
 
 I have been meaning to start a blog for a long time. Not because I have something important to say, but because I like the idea of having a place where my thoughts can live outside my head.

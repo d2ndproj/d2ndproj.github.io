@@ -2,6 +2,7 @@
 layout: post
 title: "How to Write a New Post"
 date: 2026-11-22
+categories: [tutorial]
 ---
 
 Writing a new post is easy. You have two ways to do it.
